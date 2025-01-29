@@ -4,3 +4,5 @@ say something
 hello 
 how are you today?
 where are you going?
+how was your day?
+did you code today?
